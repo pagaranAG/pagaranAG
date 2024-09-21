@@ -1,5 +1,6 @@
 ## Hi there 👋
-## Im Adrienne from NU-Laguna currently 2nd year. Im a Computer Science student that is currently learning about more practices and efficient in coding
+## Im Adrienne from NU-Laguna currently 2nd year. 
+## Im a Computer Science student that is currently learning about more practices and efficient in coding
 <!--
 **pagaranAG/pagaranAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
