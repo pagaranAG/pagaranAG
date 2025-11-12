@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Gab!
 **Developer | Student**
 
-## Im from NU-Laguna currently taking BS Computer Science (3rd Year). 
-Currently trying to upskill my coding capabilities as well as some logics here in my 
-profile.
+## 😁 About Me
+### I am Adrienne Pagaran from NU-Laguna taking BS Computer Science (3rd Year). 
+Coding wasn't my first choice in the first place when i got to code things or techy stuffs but as soon as i landed the course and currently being a 3rd year student now, 
+i aim to discover more about this field and learn things that on what can technology do. I have a deep passion for playing Games such as Valorant and AAA Games.
+Im Currently trying to upskill my coding capabilities as well as some logics here in my profile.
 
 ---
 
